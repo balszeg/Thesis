@@ -25,7 +25,7 @@ The repository contains the followings:
 -all the trained model's codes as .ipynb, these can be executed in Google Colab  
 -all the support scripts and codes  
 
-All the trained and optimized weights can be downloaded from [drive](google.com)  
+All the trained and optimized weights can be downloaded from [drive](https://drive.google.com/drive/folders/1xccsOPw09roQcsgzj0K5xTsk4OjHW-2s?usp=sharing)  
   
 With these every training can be reproduced  
 Important to note, when the codes refer to uploading/copying from the user's Google Drive, then the instructions are meant the above listed ones.
