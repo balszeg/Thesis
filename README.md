@@ -1,6 +1,6 @@
-# Thesis  
+# Traffic Image Detection With Deep Learning  
   
-This repository was made for my thesis. 
+This repository was made for the above named thesis. 
 
 
 It contains the followings:  
