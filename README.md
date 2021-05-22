@@ -19,6 +19,7 @@ The used models were:
 -[Faster R-CNN](https://arxiv.org/abs/1506.01497)  
   
 For optimizing purpose [TenrosRT](https://docs.nvidia.com/deeplearning/tensorrt/developer-guide/index.html) was used on an Nvidia Jetson Nano 2Gb.  
+The steps of optimalization is based on [jkjung-avt](https://github.com/jkjung-avt/tensorrt_demos) repository.  
   
 The repository contains the followings:  
 -all the trained model's codes as .ipynb, these can be executed in Google Colab  
